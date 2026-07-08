@@ -1,3 +1,9 @@
+![Python](https://img.shields.io/badge/Python-3.11-blue)
+
+![PyTorch](https://img.shields.io/badge/PyTorch-2.x-red)
+
+![License](https://img.shields.io/badge/License-MIT-green)
+
 # CNN Image Classification using PyTorch (CIFAR-10)
 
 ## Project Overview
