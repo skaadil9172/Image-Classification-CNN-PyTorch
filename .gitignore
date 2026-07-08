@@ -2,7 +2,25 @@
 __pycache__/
 *.py[codz]
 *$py.class
+# Python
+__pycache__/
+*.pyc
 
+# Jupyter
+.ipynb_checkpoints/
+
+# Dataset
+data/
+
+# Model files
+*.pth
+*.pt
+
+# VS Code
+.vscode/
+
+# Mac
+.DS_Store
 # C extensions
 *.so
 
